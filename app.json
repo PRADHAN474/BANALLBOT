@@ -1,8 +1,8 @@
 {
-   "name": "⚡🇨Ⓞ𝗗𝜩🇽⚡",
-   "description": "",
-   "repository": "https://github.com/MrHacker5575/CoDeX-BAN-ALL",
-   "logo": "https://graph.org/file/f66c2b39be88927dfdee7.jpg",
+   "name": "™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍",
+   "description": "POWERFULLY BAN ALL BOT",
+   "repository": "https://github.com/PRADHAN474/BANALLBOT",
+   "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
    "image": "heroku/python",
    "env": {
       "API_ID": {
@@ -22,7 +22,7 @@
       },      
       "SUDO": {
             "description": "",
-            "value": "6123932615 1690209622",
+            "value": "5059737154 5911205161",
             "required": true  
       }
    },
