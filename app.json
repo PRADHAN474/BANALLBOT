@@ -1,0 +1,35 @@
+{
+   "name": "⚡🇨Ⓞ𝗗𝜩🇽⚡",
+   "description": "",
+   "repository": "https://github.com/MrHacker5575/CoDeX-BAN-ALL",
+   "logo": "https://graph.org/file/f66c2b39be88927dfdee7.jpg",
+   "image": "heroku/python",
+   "env": {
+      "API_ID": {
+        "description": "",
+        "value": "20310034",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "",
+        "value": "e0d2c11f4ba291ce596868e73df87519",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "",
+        "value": "",
+        "required": true
+      },      
+      "SUDO": {
+            "description": "",
+            "value": "6123932615 1690209622",
+            "required": true  
+      }
+   },
+   "formation": {
+            "worker": {
+                "quantity": 1,
+                "size": "eco"
+            }
+        }
+  }
