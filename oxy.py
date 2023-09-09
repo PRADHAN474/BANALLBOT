@@ -1,6 +1,6 @@
-#  Copyright (c) 2022 @TheRiZoeL - RiZoeL
+#  Copyright (c) 2022 @oxyhu - OXYEGN
 # Telegram Ban All Bot 
-# Creator - RiZoeL
+# Creator - oxygen
 
 import logging
 import re
