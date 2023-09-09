@@ -1,1 +1,1 @@
-worker: python3 oxy.py
+worker: python3 ban.py
